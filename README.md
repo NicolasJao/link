@@ -4,7 +4,7 @@
 
 - [leventis notes](leventis notes.pdf)
 - [corbo notes](notes for corbo - nicolas jao.pdf)
-- [Link Three](https://example.com/3)
+- [Resume](Nicolas_Jao_Resume - 2027.pdf)
 - [Link Four](https://example.com/4)
 - [Link Five](https://example.com/5)
 
