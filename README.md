@@ -13,5 +13,3 @@
 - [Link Nine](https://example.com/5)
 
 <!-- To add more, copy a line above and paste it here -->
-
-![Dog profile picture](dog_profile_picture.jpg)
